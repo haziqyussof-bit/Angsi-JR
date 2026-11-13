@@ -1,0 +1,6 @@
+ANGSI JR. V10
+
+1. Upload this ZIP to /data/epic20/APGCE/apgce_team_13/ in JupyterLab.
+2. Extract into that directory; this ZIP creates ANGSI_JR_V10_FULL/.
+3. Follow README_V10.md (Streamlit port 8517).
+4. Run streamlit with sys.executable -m streamlit, not %run app.py.
